@@ -208,5 +208,66 @@
       "fashion",
       "hp7"
     ]
+  },
+  "0005": {
+    "thumbnail": "https://m.media-amazon.com/images/I/81M4ZUpmQRL._AC_UL320_.jpg",
+    "name": "LOUIS DEVIN Men's Watch (Metal Chain Analog Wrist Watch G036)",
+    "raating": "3.6",
+    "color": {
+      "Black": [
+        "https://m.media-amazon.com/images/I/81M4ZUpmQRL._SX342_.jpg",
+        "https://m.media-amazon.com/images/I/71Aozoin6fL._SX342_.jpg",
+        "https://m.media-amazon.com/images/I/71iI4MdeXaL._SX342_.jpg",
+        "https://m.media-amazon.com/images/I/71+-IFVxDUL._SX342_.jpg",
+        "https://m.media-amazon.com/images/I/71tZ2dAZUfS._SX342_.jpg"
+      ],
+      "Blue": [
+        "https://m.media-amazon.com/images/I/81O+w8oz32L._SX342_.jpg",
+        "https://m.media-amazon.com/images/I/71Aozoin6fL._SX342_.jpg",
+        "https://m.media-amazon.com/images/I/71B2lOvFipL._SX342_.jpg",
+        "https://m.media-amazon.com/images/I/710HT3jKU8L._SX342_.jpg"
+      ],
+      "Rose Gold": [
+        "https://m.media-amazon.com/images/I/81KG0QeQB3S._SX342_.jpg",
+        "https://m.media-amazon.com/images/I/71JKl1YPtxS._SX342_.jpg",
+        "https://m.media-amazon.com/images/I/71wgNWJprpS._SX342_.jpg",
+        "https://m.media-amazon.com/images/I/61XKE61af1S._SX342_.jpg",
+        "https://m.media-amazon.com/images/I/71tZ2dAZUfS._SX342_.jpg"
+      ]
+    },
+    "mrp": "1999",
+    "dealprice": "339",
+    "keyspoints": {
+      "Case Diameter": "45 Millimetres",
+      "Band Colour": "Silver",
+      "Band Material Type": "Stainless Steel",
+      "Warranty Type": "Manufacturer",
+      "Watch Movement Type": "Quartz",
+      "Item Weight": "180 Grams",
+      "Country of Origin": "India",
+      "Manufacturer": "LOUIS DEVIN, care@louisdevin.in",
+      "Packer": "Sagas Marketing, Patparganj Industrial Area, Delhi",
+      "Item Dimensions LxWxH": "9 x 9 x 7 Centimeters",
+      "Net Quantity": "1.00 Piece",
+      "Generic Name": "Watch"
+    },
+    "amazonlink": "https://www.amazon.in/Louis-Devin-LD-GR036-BLK-Metal-Analog/dp/B097TKDDHP/ref=sr_1_4?crid=3H9OGI546FZGI&keywords=LOUIS+DEVIN+LD-BK047-GLDBLK+Black+Metal+Chain+Analog+Wrist+Watch+for+Men&nsdOptOutParam=true&qid=1700224968&sprefix=louis+devin+ld-bk047-gldblk+black+metal+chain+analog+wrist+watch+for+men%2Caps%2C606&sr=8-4",
+    "aboutthisitem": [
+      "Dial Color: Black | Case Color: Silver",
+      "Strap Type: Metal Chain; Strap Size: 22 mm",
+      "Package Contents: 1 Wrist Watch & Warranty Card",
+      "Warranty Summary: 1 Year Manufacturer's warranty on all the manufacturing defects including the machine movement. Any damages due to wear and tear or mishandling of the product are not covered under warranty. The quartz movement is covered under warranty but the cell is not covered under warranty.",
+      "Bezel Function: No Bezel Available; Item Shape: Round"
+    ],
+    "tags": [
+      "watch",
+      "latest watch ",
+      "louis",
+      "men ",
+      "watches",
+      "watch",
+      "Stainless Steel",
+      "quartz watch"
+    ]
   }
 }
